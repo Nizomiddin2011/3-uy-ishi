@@ -1,0 +1,41 @@
+.btc{
+    width: 930px;
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+    list-style: none;
+}
+.zag{
+    text-align: center;
+}
+.parent{
+    display: flex;
+    justify-content: center;
+}
+.kva1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    background-color: red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+.kva2{
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    background-color: red;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    color: #FFF;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
